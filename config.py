@@ -1,0 +1,5 @@
+client_id='bJZdJJiPIkUIkQ'
+client_secret='mv6U8A91L9w8hJJP9RpaJDogjiU'
+password='seranasfeet'
+user_agent='<script>:<bJZdJJiPIkUIkQ>:<v1.0> (by /u/pavlovoncaffieine)'
+username='yes-thanks-bot'
